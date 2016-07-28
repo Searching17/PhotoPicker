@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="action_text_size">16sp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="all_photos">所有图片</string>
+    <string name="app_name">图片加载器-微信版</string>
+    <string name="count_limit">最多只能选择%1$d张图片</string>
+    <string name="delete">删除</string>
+    <string name="gallery_title">%1$d/%2$d</string>
+    <string name="has_no_external_storage">暂无外部存储</string>
+    <string name="has_no_photo">没扫描到图片</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="loading">正在加载</string>
+    <string name="piece">张</string>
+    <string name="preview">预览</string>
+    <string name="preview_count">预览(%1$d)</string>
+    <string name="select_done">完成(%1$d/%2$d)</string>
+    <string name="toolbar_preview">%1$d/%2$d</string>
+    <string name="toolbar_title">图片</string>
+    <style name="ActionMenuTextStyle" parent="TextAppearance.AppCompat.Widget.ActionBar.Menu">
+        <item name="android:textSize">@dimen/action_text_size</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="PhotoPickerTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!--<item name="android:windowBackground">@color/photopicker_background</item>-->
+        <item name="actionMenuTextAppearance">@style/ActionMenuTextStyle</item>
+        <!--<item name="actionBarTheme">@style/actionBarTheme</item>-->
+        <!--<item name="actionBarPopupTheme">@style/actionBarPopupTheme</item>-->
+    </style>
+    <style name="anim_popup_dir">
+        <item name="android:windowEnterAnimation">@anim/slide_in</item>
+        <item name="android:windowExitAnimation">@anim/slide_out</item>
+    </style>
+</resources>

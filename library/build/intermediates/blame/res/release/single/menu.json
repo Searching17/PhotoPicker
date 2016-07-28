@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\ws\\pp\\library\\build\\intermediates\\res\\merged\\release\\menu\\menu_picker.xml",
+        "source": "E:\\ws\\pp\\library\\src\\main\\res\\menu\\menu_picker.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\library\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\ws\\PhotoPicker\\library\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\ws\\pp\\library\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\ws\\pp\\library\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\ws\\pp\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\menu_picker.xml",
+        "source": "E:\\ws\\pp\\PhotoPicker\\src\\main\\res\\menu\\menu_picker.xml"
+    },
+    {
+        "merged": "E:\\ws\\pp\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\menu_preview.xml",
+        "source": "E:\\ws\\pp\\PhotoPicker\\src\\main\\res\\menu\\menu_preview.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\menu_preview.xml",
+        "source": "E:\\ws\\PhotoPicker\\PhotoPicker\\src\\main\\res\\menu\\menu_preview.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\ws\\PhotoPicker\\PhotoPicker\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\menu_picker.xml",
+        "source": "E:\\ws\\PhotoPicker\\PhotoPicker\\src\\main\\res\\menu\\menu_picker.xml"
+    },
+    {
+        "merged": "E:\\ws\\pp\\library\\build\\intermediates\\res\\merged\\release\\menu\\menu_preview.xml",
+        "source": "E:\\ws\\pp\\library\\src\\main\\res\\menu\\menu_preview.xml"
+    },
+    {
+        "merged": "E:\\ws\\pp\\PhotoPicker\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "E:\\ws\\pp\\PhotoPicker\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\library\\build\\intermediates\\res\\merged\\release\\menu\\menu_preview.xml",
+        "source": "E:\\ws\\PhotoPicker\\library\\src\\main\\res\\menu\\menu_preview.xml"
+    },
+    {
+        "merged": "E:\\ws\\PhotoPicker\\library\\build\\intermediates\\res\\merged\\release\\menu\\menu_picker.xml",
+        "source": "E:\\ws\\PhotoPicker\\library\\src\\main\\res\\menu\\menu_picker.xml"
+    }
+]
