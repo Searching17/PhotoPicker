@@ -8,6 +8,8 @@ Base on [http://blog.csdn.net/lmj623565791/article/details/39943731](http://blog
 
 [http://www.cnblogs.com/_ymw/p/4156577.html](http://www.cnblogs.com/_ymw/p/4156577.html)
 
+Run well in Don't keep activities mode.
+
 #License
 ##
 
