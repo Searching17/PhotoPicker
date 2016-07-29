@@ -1,5 +1,4 @@
 # PhotoPicker
-<<<<<<< HEAD
 
 ##
 
@@ -25,5 +24,3 @@ Base on [http://blog.csdn.net/lmj623565791/article/details/39943731](http://blog
 	WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 	See the License for the specific language governing permissions and
 	limitations under the License.
-=======
->>>>>>> 844dc7c12cb3cd9c17d789ee6f139989f1af2bcc
